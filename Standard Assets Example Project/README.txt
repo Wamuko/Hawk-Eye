@@ -15,8 +15,6 @@ a d : 旋回運動
 
 リスタート：左上のボタンをクリック
 
-ディレクトリHawk Eye以下のデータの著作権は私、和室 昂佑が所持しております。
-
 使用した素材：
 enviro
 https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963
