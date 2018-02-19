@@ -9,13 +9,13 @@
 
 操作方法：
 
-w s : 上下運動
-a d : 旋回運動
-右クリック：ブレーキ
+w s : 上下運動 (up & down)
+a d : 旋回運動 (rolling)
+右クリック：ブレーキ 
+(right click : brake)
+リスタート：左上のボタンをクリック 
+(restart :  click upperleft button on screen)
 
-リスタート：左上のボタンをクリック
-
-このプロジェクトはUnity 2017.3.0f3を用いて作られました。
 
 使用した素材：
 enviro
@@ -32,4 +32,9 @@ https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-323
 
 
 なお、ディレクトリHawk Eye 以下のデータの著作権は私、和室 昂佑が所持しています。
+The directory named Hawk Eye ownd me(Kousuke Wamuro).
 
+email:
+wamuko.kazu☆gmail.com
+(☆を@に変えてください。)
+(please change ☆ to @)
