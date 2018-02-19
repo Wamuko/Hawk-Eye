@@ -15,6 +15,7 @@ a d : 旋回運動
 
 リスタート：左上のボタンをクリック
 
+
 使用した素材：
 enviro
 https://assetstore.unity.com/packages/tools/particles-effects/enviro-sky-and-weather-33963
@@ -27,4 +28,7 @@ https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
 
 Standard Assets
 https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
+
+
+なお、ディレクトリHawk Eye 以下のデータの著作権は私、和室 昂佑が所持しています。
 
